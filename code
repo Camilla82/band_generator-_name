@@ -1,4 +1,4 @@
-``sql 
+```sql 
 #1. Create a greeting for your program.
 print("Hello!")
 #2. Ask the user for the city that they grew up in.
@@ -9,4 +9,4 @@ pet = input("What's your pet's name?\n")
 band_name = city + " " + pet
 #5. Make sure the input cursor shows on a new line:
 print("Your name band could be " + band_name)
-``
+```
